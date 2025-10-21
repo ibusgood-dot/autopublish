@@ -8,3 +8,6 @@ requests==2.31.0
 
 # Playwright
 playwright==1.54.0
+
+beautifulsoup4>=4.9.0
+
