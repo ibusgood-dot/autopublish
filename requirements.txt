@@ -1,0 +1,10 @@
+# Web 框架
+Flask==2.3.3
+Werkzeug==2.3.7
+Flask-Cors==4.0.0   # ← 这里是缺的
+
+# 常用依赖
+requests==2.31.0
+
+# Playwright
+playwright==1.54.0
